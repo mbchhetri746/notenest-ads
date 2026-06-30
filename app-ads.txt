@@ -1,6 +1,4 @@
-# Unity & Partners
 unity.com, 132217980, DIRECT, 96cabb5fbdde37a7
-unity3d.com, 18968453776679, DIRECT, 2462e08c375833c1
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
@@ -14,6 +12,10 @@ smartadserver.com, 4525, RESELLER, 060d053dcf45cbf3
 triplelift.com, 12908, RESELLER, 6c33edb13117fd86
 openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
-
-# ironSource
-ironsource.com, 132217980, DIRECT, 96cabb5fbdde37a7
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+loopme.com, 11463, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
+pubnative.net, 1009458, RESELLER, d641df8625486a7b
