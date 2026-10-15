@@ -2670,3 +2670,4 @@ lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 e-planning.net, 1bf7b5d803f178c4, RESELLER, c1ba615865ed87b2
 krushmedia.com, AJxF6R719a9M6CaTvK, RESELLER
 insticator.com, e2d3e33c-9911-477a-8ae2-f059870c67c0, RESELLER, b3511ffcafb23a32
+bigo.sg,auo91fu0qz,DIRECT
